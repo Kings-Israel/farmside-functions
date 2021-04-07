@@ -1,0 +1,22 @@
+{
+  "name": "farmside-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions/message.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kings-Israel/farmside-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kings-Israel/farmside-functions/issues"
+  },
+  "homepage": "https://github.com/Kings-Israel/farmside-functions#readme",
+  "dependencies": {
+    "nodemailer": "^6.5.0"
+  }
+}
