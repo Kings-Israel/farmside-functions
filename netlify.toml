@@ -8,7 +8,7 @@
   ## Not needed for static site generators.
   [[redirects]]
    from = "https://farmside-media.netlify.app"
-   to = "/.netlify/functions/"
+   to = "/functions/"
    status = 200
 
   [[headers]]
